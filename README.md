@@ -1,5 +1,5 @@
 # To-do with Redux
-> App is up running visit the link
+> App is up running visit the link - https://redux-todo-v8.netlify.app/
 
 This is not a complete CRUD application as we are just add and delete the items from the list.
 
